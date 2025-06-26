@@ -1,4 +1,3 @@
-# how you doing
 
 # Express examples
 
